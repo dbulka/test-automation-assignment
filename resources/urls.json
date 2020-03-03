@@ -1,0 +1,4 @@
+{
+    "site_URL": "https://www.blazemeter.com/",
+    "registation_URL" : "https://auth.blazemeter.com/auth/realms/blazect/protocol/openid-connect/registrations?client_id=account&response_type=code&redirect_uri=https://auth.blazemeter.com/auth/realms/blazect/protocol/saml/clients/blazemeter"
+}

@@ -1,0 +1,16 @@
+{
+    "start_main_button": "//*[@id=\"home_form_holder\"]/a/button",
+    "second_start_button": "/html/body/div[1]/header/nav/ul/li[6]/div/a",
+    "login_button": "/html/body/div[1]/div[2]/header/h1/div/div[1]/span/a",
+    "name_field": "/html/body/div[1]/div[2]/div/div/form/div[1]/div/input",
+    "last_name": "/html/body/div[1]/div[2]/div/div/form/div[2]/div/input",
+    "email": "/html/body/div[1]/div[2]/div/div/form/div[3]/div/input",
+    "company": "/html/body/div[1]/div[2]/div/div/form/div[4]/div/input",
+    "register": "/html/body/div[1]/div[2]/div/div/form/div[5]/div/input",
+    "skip_wizard": "/html/body/div[1]/div/div/div/div/div/div/div[2]/div[6]/div/a",
+    "settings_drop_down": "/html/body/div[1]/div/header/bzm-header//div/div[2]/dropdown-menu/div",
+    "setting": "/html/body/div[1]/div/header/bzm-header//div/div[2]/dropdown-menu/div/ul/li[1]/a",
+    "login": "/html/body/div[1]/div[2]/div/div/div[1]/div/form/div[2]/input",
+    "password": "/html/body/div[1]/div[2]/div/div/div[1]/div/form/div[3]/input",
+    "login_page_button": "/html/body/div[1]/div[2]/div/div/div[1]/div/form/div[4]/input"
+}
