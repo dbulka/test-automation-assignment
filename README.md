@@ -11,4 +11,5 @@ Software Requirements: Python 3.7 or later
 Filter                           | lcc commands
 ---------------------------------|----------------------
 Run all tests                    | `$ <ENVIRONMENT_NAME> python -m pytest`
-
+Run GUI tests                    | `$ py.test -m guitests
+Run API tests                    | `$ py.test -m apitests

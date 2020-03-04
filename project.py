@@ -2,9 +2,9 @@ import os.path
 import json
 
 RESOURCES_DIR = os.path.join(os.path.dirname(__file__), "resources")
-
 site_URL = json.load(open(os.path.join(RESOURCES_DIR, "urls.json")))["site_URL"]
 registation_URL = json.load(open(os.path.join(RESOURCES_DIR, "urls.json")))["registation_URL"]
+api_URL = json.load(open(os.path.join(RESOURCES_DIR, "urls.json")))["api_URL"]
 start_main_button = json.load(open(os.path.join(RESOURCES_DIR, "xpaths.json")))["start_main_button"]
 second_start_button = json.load(open(os.path.join(RESOURCES_DIR, "xpaths.json")))["start_main_button"]
 login_button = json.load(open(os.path.join(RESOURCES_DIR, "xpaths.json")))["login_button"]
@@ -21,3 +21,4 @@ password = json.load(open(os.path.join(RESOURCES_DIR, "xpaths.json")))["password
 login_page_button = json.load(open(os.path.join(RESOURCES_DIR, "xpaths.json")))["login_page_button"]
 user_email = json.load(open(os.path.join(RESOURCES_DIR, "user.json")))["login"]
 user_password = json.load(open(os.path.join(RESOURCES_DIR, "user.json")))["password"]
+data = json.load(open(os.path.join(RESOURCES_DIR, "data.json")))
