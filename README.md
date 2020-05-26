@@ -2,7 +2,7 @@
 Software Requirements: Python 3.7 or later
 
 ##### Linux
-    $ git clone https://github.com/echoprotocol/pytests.git
+    $ git clone git@github.com:dbulka/test-automation-assignment.git
     $ virtualenv <ENVIRONMENT_NAME> -p python3.7
     $ source <ENVIRONMENT_NAME>/bin/activate
     $ pip3 install -r requirements.txt
